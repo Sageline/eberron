@@ -1,0 +1,26 @@
+![[Pasted image 20260428192604.png|center|300]]
+* Vivimos en una era de oscuridad. Debemos encontrar el camino que conduce a la luz.
+* Actúa con compasión y valentía. Cada acto noble es un paso en ese camino.
+* Perfecciona tu cuerpo y tu mente. Tú eres la herramienta que utilizarás para cambiar la realidad.
+
+> [!NOTE] La Voz de Breland: ¡La profecía kalashtar que no puedes ignorar!
+Muchos de los habitantes de Khorvaire nunca han conocido a un kalashtar. Algunos dicen que estas personas están en contacto con espíritus celestiales; aquí, en La Voz de Breland, decimos que son un tipo raro de lunáticos que hemos importado de Sarlona. Así que fue un regalo especial para los turistas cuando uno de los líderes espirituales de los kalashtar de Sharn hizo una aparición inesperada en la gran plaza de Hope's Peak. El iluminado Havakhad —así es como se hace llamar— lanzó una advertencia de que «la oscuridad se estaba acumulando» y de que «se avecinan tiempos terribles». Suplicó a la multitud reunida que mostrara bondad tanto hacia los vecinos como hacia los forasteros, y que no dejara que «el miedo causara conflictos en los duros días que se avecinan». Al parecer, Havakhad no se ha enterado de que estamos ganando la guerra. Pero si el mundo se acaba mañana, ¡lo habrás leído aquí primero!
+
+Practicado por muchos [[kalashtar]], el Camino de la Luz busca cambiar la realidad empezando por el cambio interior, utilizando la meditación para enfocar la mente y la disciplina atlética para mejorar el cuerpo. El siguiente paso es llevar la luz al mundo, utilizando el valor y la compasión para desterrar la oscuridad de las personas que te rodean. Media en las disputas. Apaga el odio guiando a las personas para que salgan de la oscuridad. Inspira a las personas a ser mejores de lo que son. Incluso el cambio más pequeño es una victoria, pero los portadores de la luz —los seguidores de este camino— esperan que esto sea solo un paso en un viaje más grande.
+
+El Camino de la Luz enseña que esta era está dominada por il-Lashtavar, "la gran oscuridad que sueña". Esta fuerza envenena el mundo y fomenta la oscuridad. Pero todo cambia. Si entra suficiente luz en el mundo, se producirá un cambio radical: la era de il-Lashtavar llegará a su fin y dará paso a la era de il-Yannah, la gran luz.
+
+Algunos seguidores de esta fe creen que la meditación por sí sola es suficiente para cambiar el rumbo del mundo, que el mero hecho de contemplar la luz basta para provocar el cambio. La mayoría cree que es necesario actuar, pero que la oscuridad debe combatirse con luz. La violencia nunca es la respuesta, y la única forma de derrotar al mal es redimirlo. Los Portadores de la Luz buscan inspirar a quienes viven con miedo e iluminar a aquellos cuyo mal es impulsado por la ignorancia. La fe ha seguido este camino durante más de mil años, pero ahora una secta escindida aboga por una mayor acción. Estos vigilantes de las sombras creen que hay que combatir el mal, que las fuentes de oscuridad que envenenan a las comunidades pueden y deben ser eliminadas sin piedad.
+
+El Camino de la Luz es impartido a los kalashtar por los espíritus vinculados a sus linajes. Está muy extendido en la nación de Adar, en la lejana Sarlona, pero en Khorvaire es prácticamente desconocido fuera de las comunidades kalashtar. Los vigilantes de la sombra defienden una secta nacida en Khorvaire, y los ancianos de Adar han condenado sus métodos.
+
+Si sigues el Camino de la Luz, debes elegir tu bando. Como portador de la luz, buscas difundir esperanza y buena voluntad. Como vigilante de las sombras, persigues y eliminas las fuentes de la oscuridad. ¿Qué camino seguirás?
+
+## Símbolo
+El símbolo del Camino de la Luz es un fragmento de cristal brillante, que se lleva consigo o se luce como amuleto. Este cristal puede utilizarse como símbolo sagrado; si se lleva como collar, el sacerdote debe colocar una mano sobre él para utilizarlo como punto de concentración. El atuendo formal de un sacerdote incluye un tocado con cuernos curvados y puntas fabricado con un material sarlonano similar a la concha llamado sentira.
+
+## Ritos
+La disciplina física y mental son virtudes importantes del Camino de la Luz. Las artes marciales y la meditación guiada se convierten en una forma de devoción y oración. Un sacerdote kalashtar oficia los servicios de forma telepática, utilizando santuarios diseñados para amplificar las habilidades psíquicas y permitirles compartir pensamientos e imágenes directamente con la congregación. Para un forastero, un servicio puede parecer silencioso y tranquilo a pesar de ser una experiencia extática para los fieles.
+
+## Templos
+La nación de Adar, en Sarlona, alberga vastos monasterios-fortaleza dedicados al Camino de la Luz. En Khorvaire, solo hay un puñado de santuarios en ciudades con grandes comunidades kalashtar. Estos santuarios son tranquilos y apacibles, y el aire huele a incienso de Sarlona. Las salas son abiertas, lo que proporciona espacio para las artes marciales. Los patrones laberínticos grabados en los suelos sirven de ayuda para la meditación, mientras que las paredes albergan cristales que concentran y amplifican las habilidades psíquicas de los sacerdotes.
