@@ -14,7 +14,7 @@ La Marca del Manejo otorga a quien la lleva una conexión primitiva con las best
 ![[Pasted image 20260428091122.png|center]]
 **Líder:** Dalin d'Vadalis
 
-**Sede:** Foalswood (cerca de Varna, en los Tierras de Eldeen)
+**Sede:** Foalswood (cerca de Varna, en los Confines de Eldeen)
 
 Representada por el hipogrifo, la Casa Vadalis desempeña un papel importante en la vida cotidiana, ya que proporciona carne, monturas y otros productos. La Casa Vadalis no es una de las más poderosas, pero sus barones suelen estar satisfechos; les interesa más descubrir nuevas monstruosidades que involucrarse en la política. El actual jefe de la casa, Dalin d'Vadalis, desdeña el uso de títulos y no tiene aspiraciones de nobleza ni grandeza para sí mismo ni para su casa.
 

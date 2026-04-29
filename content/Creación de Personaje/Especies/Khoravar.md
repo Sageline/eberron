@@ -1,4 +1,5 @@
 ![[Khoravar.webp|center]]
+https://5e.tools/races.html#khoravar_efa
 A lo largo de los siglos, los descendientes tanto de humanos como de elfos han desarrollado sus propias comunidades y tradiciones en Khorvaire. El auge de la [[Casa Lyrandar]] y la [[Casa Medani]] ha reforzado esta identidad. Los miembros de estas comunidades se autodenominan "khoravar", un término élfico que significa "hijos de Khorvaire", ya que rechazan el término "semielfo" o "medio-elfo".
 
 Muchos khoravar defienden la idea de ser "un puente", creyendo que están llamados a facilitar la comunicación y la cooperación entre miembros de diferentes culturas o especies. Los khoravar que siguen esta filosofía suelen convertirse en bardos, diplomáticos, mediadores o traductores. Otros, fascinados por su lejana conexión con los Fey, buscan tender puentes entre el Plano Material y el Feywild de Thelanis. Estos Khoravar suelen convertirse en druidas o brujos con patrones archfey.

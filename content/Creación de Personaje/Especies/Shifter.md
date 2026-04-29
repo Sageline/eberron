@@ -1,4 +1,5 @@
 ![[Pasted image 20260428122800.png|center]]
+https://5e.tools/races.html#shifter_efa
 Los shifters, a veces llamados "weretouched" o "cambiaformas", descienden de personas que contrajeron licantropía total o parcial. Los shifters, unos humanoides de aspecto bestial, no pueden cambiar de forma por completo, pero sí pueden acentuar temporalmente sus rasgos animales en un proceso que denominan "shifting".
 
 Los shifters se asemejan a los humanos en altura y complexión, pero suelen ser más ágiles y flexibles. Sus rasgos faciales tienen un aire bestial, a menudo con ojos grandes y orejas puntiagudas; la mayoría de los cambiaformas también poseen colmillos prominentes. Les crece un pelo similar al pelaje en casi todas las partes del cuerpo. Aunque la apariencia de un cambiaformas pueda recordar a un animal, el cambiaformas sigue siendo claramente identificable como un humanoide incluso en su estado más salvaje.

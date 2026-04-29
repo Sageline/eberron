@@ -4,7 +4,7 @@
 
 Tras la [[Última Guerra]], Breland es una de las naciones más poderosas de Khorvaire. Con una gran población y abundantes recursos, Breland lidera la industria del continente.
 
-Los brelandeses son conocidos por su pragmatismo e independencia. Carecen de la disciplina de los karrnathianos y de la fe de los thranes, pero destacan por encontrar soluciones innovadoras a los problemas. Los brelandeses también tienen talento para la intriga y el engaño. Los Faroles Oscuros del Rey son una de las mejores agencias de inteligencia de Khorvaire, rivalizadas únicamente por la [[Casa Phiarlan]] y la [[Confianza de Zilargo]]. El lado oscuro de estas aptitudes es una fuerte vena de cinismo, que permite que el crimen y la corrupción florezcan en las ciudades y templos brelandeses. La [[Hueste Soberana]] es la religión dominante de Breland, pero en general no son tan devotos como los ciudadanos de otras naciones.
+Los brelandeses son conocidos por su pragmatismo e independencia. Carecen de la disciplina de los karrnathianos y de la fe de los thranes, pero destacan por encontrar soluciones innovadoras a los problemas. Los brelandeses también tienen talento para la intriga y el engaño. Los Faroles Oscuros del Rey son una de las mejores agencias de inteligencia de Khorvaire, rivalizadas únicamente por la Casa Phiarlan ([[Casas de la Marca de la Sombra]]) y el Trust de [[Zilargo]]. El lado oscuro de estas aptitudes es una fuerte vena de cinismo, que permite que el crimen y la corrupción florezcan en las ciudades y templos brelandeses. La [[Hueste Soberana]] es la religión dominante de Breland, pero en general no son tan devotos como los ciudadanos de otras naciones.
 
 El rey Boranel ir'Wynarn gobierna Breland junto con un parlamento elegido. Boranel es un líder popular aclamado por sus hazañas durante la Última Guerra, pero sus hijos aún tienen que demostrar su valía, y un movimiento cada vez mayor aboga por abandonar el régimen monárquico cuando Boranel fallezca.
 
@@ -18,7 +18,7 @@ Más allá de la magnificencia de Sharn, Breland alberga una gran variedad de ot
 
 ### Argonth
 ![[Pasted image 20260427200405.png]]
-Argonth, la fortaleza flotante de Breland, es una de las maravillas de la Última Guerra. Fruto del ingenio de la ""Casa Cannith"" y del poderío industrial de Breland, Argonth es la mayor máquina de guerra jamás construida. Esta ciudad flotante alberga a miles de soldados. Actualmente, Argonth patrulla los límites de las [[Tierras de Luto]], pero si aumentan las tensiones con Droaam o Darguun, la fortaleza puede desplegarse para reforzar una frontera amenazada.
+Argonth, la fortaleza flotante de Breland, es una de las maravillas de la Última Guerra. Fruto del ingenio de la ""Casa Cannith"" y del poderío industrial de Breland, Argonth es la mayor máquina de guerra jamás construida. Esta ciudad flotante alberga a miles de soldados. Actualmente, Argonth patrulla los límites de las Tierras de Luto, pero si aumentan las tensiones con Droaam o Darguun, la fortaleza puede desplegarse para reforzar una frontera amenazada.
 
 Como soldado o espía de Breland, es posible que hayas servido a bordo de Argonth durante un tiempo antes de que algún incidente te llevara a convertirte en aventurero.
 

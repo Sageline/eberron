@@ -9,7 +9,7 @@ Fértiles tierras de cultivo rodean las grandiosas ciudades de Aundair. Las torr
 
 Desde los nobles que descansan en las torres de Fairhaven hasta la gente común que trabaja en los vastos viñedos de Bluevine, los aundairianos valoran el ingenio y la sabiduría. Los aundairianos prefieren la delicadeza a la fuerza bruta y aprecian los juegos de palabras ingeniosos y la moda refinada. La [[Hueste Soberana]] es la fe dominante en Aundair, con una devoción especial por Aureon. Sin embargo, la [[Llama Plateada]] también cuenta con seguidores devotos, algunos dirían que demasiado fervientes.
 
-Aunque Aundair es una nación pequeña, su superioridad arcana le permitió conservar su dominio durante la [[Última Guerra.]] El pueblo de Aundair sabe que el conocimiento es poder, y se enorgullece de los avances mágicos de su nación. Para garantizar la prosperidad y el dominio de su nación, la reina Aurala ir'Wynarn instituyó la Iniciativa Arcana, una serie de programas agresivos destinados a impulsar el desarrollo de la infraestructura mística y la magia de combate.
+Aunque Aundair es una nación pequeña, su superioridad arcana le permitió conservar su dominio durante la [[Última Guerra]]. El pueblo de Aundair sabe que el conocimiento es poder, y se enorgullece de los avances mágicos de su nación. Para garantizar la prosperidad y el dominio de su nación, la reina Aurala ir'Wynarn instituyó la Iniciativa Arcana, una serie de programas agresivos destinados a impulsar el desarrollo de la infraestructura mística y la magia de combate.
 
 ## Cosas interesantes sobre Aundair
 * Arcanix es la academia de magia más prestigiosa de Khorvaire. La mayoría de sus sabios se especializan en magia ritual y teoría abstracta, y no poseen todos los poderes de los magos.
