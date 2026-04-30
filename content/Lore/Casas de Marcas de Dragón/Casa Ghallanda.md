@@ -3,7 +3,7 @@ _Casa de Marca de Dragón_
 _[[Marca de la Hospitalidad]]_ <br>
 ![[Pasted image 20260428084626.png|center]]
 
-> ¡Bienvenido, bienvenido! Me alegro mucho de volver a verte. Déjame traerte algo de beber: ¿tal de raíz negra con miel, verdad? Y luego tienes que escuchar esta historia que he oído sobre las cosas extrañas que están pasando en los Engranajes.
+> ¡Bienvenido, bienvenido! Me alegro mucho de volver a verte. Déjame traerte algo de beber: ¿tal de raíz negra con miel, verdad? Y luego tienes que escuchar esta historia que he oído sobre las cosas extrañas que están pasando en los Cogs.
 > <p style="text-align: right;">— Alara d'Ghallanda, bartender halfling</p>
 
 <br>

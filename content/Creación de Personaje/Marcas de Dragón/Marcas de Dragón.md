@@ -36,6 +36,26 @@ Aunque las marcas de dragón comparten la misma apariencia general, tu marca de 
 
 Dado que las marcas de dragón suelen aparecer por primera vez en situaciones de estrés o peligro en las que el poder de la marca podría resultar útil, los herederos de las casas con marca de dragón se someten a un rito de iniciación llamado la Prueba de Siberys en la adolescencia. La prueba de cada casa es diferente, pero todas implican algún peligro diseñado para evocar el poder de la marca de la casa.
 
+## Jugar como un personaje marcado
+Siglos de manipulación y consolidación han hecho que las marcas de dragón establecidas se manifiesten principalmente en los miembros de determinados linajes familiares. Sin embargo, siempre hubo excepciones, y estas son cada vez más comunes en los últimos años.
+
+Si decides que tu personaje sea marcado, estas son las cuatro opciones para su origen:
+
+### Heredero marcado
+Eres miembro de una casa con marca de dragón y de su linaje familiar; por ejemplo, si llevas la Marca de la Curación, podrías ser un halfling de la Casa Jorasco y estar emparentado con los demás herederos con marca de dragón de la casa. En este caso, tienes mucho en común con otros herederos de tu casa. Las acciones de tu casa te influyen, aunque podemos decidir hasta qué punto te ves envuelto en las intrigas de la casa.
+
+Elegir el trasfondo asociado a tu casa (como [House Jorasco Heir](https://5e.tools/backgrounds.html#house%20jorasco%20heir_efa)) es la mejor manera de crear tu personaje como heredero con marca de dragón. Como alternativa, puedes elegir el trasfondo [House Agent](https://5e.tools/backgrounds.html#house%20agent_efa), o algún otro trasfondo que refleje la historia de tu personaje, y elegir una dote de Marca de Dragón.
+
+Por lo general, una marca de dragón aparece durante la Prueba de Siberys, si es que llega a manifestarse, pero los herederos a veces manifiestan sus marcas años después de haber fallado la prueba.
+
+### Descendiente lejano
+Eres un descendiente lejano de un linaje con marca de dragón, y compartes la especie en la que se manifiesta más comúnmente la marca, pero sin estar atado a los lazos de su casa. Por ejemplo, podrías ser un halfling con la Marca de la Curación, pero sin vínculos con la Casa Jorasco. Eres una anomalía; si la Casa Jorasco se enterara de tu existencia, intentaría incorporarte a ti y a tu linaje a la casa.
+
+### Marca de la Profecía
+Es posible que tengas una marca que no guarde relación con tu especie. Por ejemplo, puedes elegir llevar la Marca de la Curación aunque no seas un halfling. Tu marca de dragón no tiene nada que ver con el linaje de la casa. Puede ser una marca directa de la Profecía Dracónica, o bien una marca aberrante que, por casualidad, se asemeja a una ya conocida. Probablemente nunca te encontrarás con un NPC en el mundo como tú, y es posible que la Casa Jorasco no te reclame.
+
+### Marca aberrante
+Llevas una marca de dragón aberrante. Estas marcas poco comunes aparecen en miembros de todas las especies. Las marcas de dragón aberrante inquietan a las casas; harías bien en evitar llamar su atención.
 ## Tabla de Marcas y Casas
 
 | Casa                                                                   | Especies       | Marca                        |
