@@ -17,8 +17,7 @@ Además del rechazo generalizado hacia los muertos vivientes, la opinión públi
 
 La Sangre de Vol cuenta con su mayor número de seguidores en [[Karrnath]] y los [[Principados de Lhazaar]]. Durante un tiempo, fue la religión nacional de Karrnath. Aunque ha caído en desgracia, la fe sigue practicándose abiertamente en esa nación.
 
-Símbolo
-p. 145
+## Símbolo
 El poder de un clérigo de la Sangre de Vol proviene de su interior. Por ello, cada clérigo elige un símbolo sagrado único: un objeto con el que se identifica. En términos generales, la fe se representa mediante una gema roja en forma de lágrima o un fragmento de cristal. Los sacerdotes de la Sangre de Vol visten túnicas rojas y negras.
 
 ## Ritos
