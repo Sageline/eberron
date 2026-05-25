@@ -17,7 +17,7 @@ Eberron combina la acción trepidante y la aventura pulp con un toque de intriga
 
 ## Links interesantes:
 
-* Razas/Especies nueva: [[Warforged]], [[Kalashtar]], [[Shifter]]
+* Razas/Especies nuevas: [[Warforged]], [[Kalashtar]], [[Shifter]]
 * [[Khorvaire|Información del Mundo]]
 * [[Marcas de Dragón]]
 

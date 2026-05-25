@@ -1,4 +1,4 @@
-_Actualmente conocida como **Tierra de Luto_**
+_Actualmente conocida como **Tierra de Luto**
 
 **Capital:** Metrol (destruida)
 

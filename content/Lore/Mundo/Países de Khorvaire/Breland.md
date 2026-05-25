@@ -10,7 +10,7 @@ El rey Boranel ir'Wynarn gobierna Breland junto con un parlamento elegido. Boran
 
 ## Cosas interesantes sobre Breland
 * [[Sharn]] es la ciudad más grande de Khorvaire. La "Ciudad de las Torres", que es casi una nación en sí misma, es un centro neurálgico del comercio y la intriga.
-* El clan Boromar es la organización criminal más antigua y poderosa de Breland. Los líderes halflings de los Boromar mantienen vínculos con las Llanuras de Talenta. Otras organizaciones criminales destacadas son los monstruos de Daask y la [[Casa Tarkanan]], una alianza de asesinos y ladrones con marcas de dragón aberrantes.
+* El clan Boromar es la organización criminal más antigua y poderosa de Breland. Los líderes halflings de los Boromar mantienen vínculos con las Llanuras de Talenta. Otras organizaciones criminales destacadas son los monstruos de [[Daask]] y la [[Casa Tarkanan]], una alianza de asesinos y ladrones con marcas de dragón aberrantes.
 * Las principales ciudades de Breland son muy cosmopolitas. Debido a su proximidad a Droaam, las ciudades de Breland albergan más ogros, orcos, goblins e incluso sahuagin, arpías y gárgolas que cualquier otro lugar de las Cinco Naciones.
 
 ## Lugares de Breland

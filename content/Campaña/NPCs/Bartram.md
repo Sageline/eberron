@@ -1,0 +1,1 @@
+Un shifter lobo mercenario proveniente de los [[Confines de Eldeen]]. Siempre anda con su Worg llamado Roca y tiene a [[Eryndor]] en cierto estima por ser compatriotas. Frecuenta la taberna [[El Druida Manco]].

@@ -1,0 +1,3 @@
+Una mercader halfling de mediana edad, conoció a [[Baruuk]] en un viaje a Sharn y son buenos amigos desde entonces. Tiene una oficina en [[Tavick's Landing#Middle Tavick's Landing|Middle Tavick's Landing]], es consultora económica y de vez en cuando hace importaciones a la ciudad. Tiene varios contactos, entre ellos la [[Sargento Germaine Vilroy]] y la dueña de la [[Estrella Naranja]], el bar que frecuenta el grupo.
+
+Es inteligente, no toma alcohol, habla rápido y cuando le piden algo no duda en ayudarlos.

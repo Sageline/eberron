@@ -1,0 +1,1 @@
+Una shifter loba que conocieron cuando estaba contratada por [[Daask]], luego de un intento de asesinato a Carbonilla junto a sus súbditos kobold, es derrotada por su grupo y en vez de entregarlos a la Guardia, deciden formar una alianza. Ahora se dedica más que nada a vender información y frecuenta la taberna [[El Druida Manco]].

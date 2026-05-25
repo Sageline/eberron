@@ -1,0 +1,5 @@
+Una taberna de gran tamaño en [[Tavick's Landing#Lower Tavick's Landing|Lower Tavick's Landing]] con el nombre en honor a su dueño fundador y administrador, Roble. Roble es un elfo druida de avanzada edad proveniente de [[Confines de Eldeen|Eldeen]], famoso por ser uno de los pocos druidas con residencia permanente no pertenecientes al círculo de la ciudad. Le falta el brazo izquierdo, es amable y acoge a cualquiera que entre a su taberna, pero no tolera el conflicto.
+
+Todas las paredes, muebles, jarras y cubiertos del establecimiento son de madera, muchos dicen "conjurados" por Roble. El lugar tiene un gran vino producido en su sótano y comida abundante, los aposentos no son los más cómodos pero siempre están limpios.
+
+Si buscas a alguien de Eldeen viviendo en la ciudad, lo más probable es que alguien aquí lo conozca. Además de gente de estas tierras, es frecuentado por shifters, druidas y rangers que pasan por la ciudad.

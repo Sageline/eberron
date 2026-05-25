@@ -1,0 +1,1 @@
+Un pequeño bar acogedor en [[Tavick's Landing#Middle Tavick's Landing|Middle Tavick's Landing]], su dueña es una halfling de la [[Casa Ghallanda]] y amiga de [[Telma]]. Siempre les guarda una habitación y les cobra barato.
